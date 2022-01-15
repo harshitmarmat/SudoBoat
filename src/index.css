@@ -12,3 +12,56 @@ body {
   margin: 0;
 }
 
+form{
+  margin: 2% auto auto 2%;
+}
+
+label {
+  font-size: 1.3rem;   
+  font-weight: 900;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+input {
+  width: 300px;
+  height: 3rem;
+  font-size: 1.1rem;
+  padding-right: 4px;
+  text-align: right;
+}
+
+button{
+  margin-left: 5%;
+  width: 200px;
+  height: 3rem;
+  top: -20px;
+  padding: 5px auto 5px auto;
+  font-size: 0.9rem;
+  font-weight: 500;
+  background-color: rgb(247, 218, 166);
+  cursor: pointer;
+}
+
+.column{
+  display: flex;
+  width: 100%;
+  /* background-color: black; */
+  border: 1px solid black;
+}
+
+.width{
+  width: 100%;
+}
+
+.windowSeatColor{
+  background-color: rgba(148, 190, 230, 0.822);
+}
+
+.aisleSeatColor {
+  background-color: rgba(157, 219, 157, 0.808);
+}
+
+.middleSeatColor{
+  background-color: rgb(245, 171, 153);
+}

@@ -1,0 +1,13 @@
+.title{
+    height : 5rem;
+    width: 96%;
+    margin: 2rem auto 0 auto;
+    background-color: rgb(165, 206, 192);
+    position: relative;
+    border: 1px solid rgb(78, 77, 77);
+}
+
+.title p{
+    font-size: 1.3rem;
+    text-align: center;
+}
