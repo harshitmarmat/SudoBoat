@@ -13,5 +13,8 @@ This is a project that to design a program to manage the seating arrangement for
  * In a particular row, all middle seats gets allocated first. Then the window seats gets allocated. Lastly, the aisle seats gets allocated.
  * The number of seats allocated should not be greater than the number of passengers or the total seating capacity of the aeroplane.
  * There should be a minimum of 11 passengers and a maximum of 200 passengers.
+ * The Output should be as displayed below.
+Example: Number of Passengers => 148
  
  
+![Screenshot (106)](https://user-images.githubusercontent.com/65807810/149628983-e62b34e1-d7f0-42ff-880b-f4bae91349d4.png)
